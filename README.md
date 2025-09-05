@@ -1,5 +1,7 @@
 <h1>JUEGO DEL AMIGO SECRETO.</h1>
 
+<p>Si deseas jugar, puedes ingresar a este link: https://enrique-flores82.github.io/amigo-secreto/</p>
+
 <p>En este juego es necesaria tu participación para ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".</p>
 
 <p>El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar,
